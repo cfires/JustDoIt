@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<form method="post" action="@Url.Action("Index","DistinctBySelf")">
+    <div class="form-group">
+        <label class="col-md-3">去重文本：</label>
+        <input class="col-md-5" type="file" name="file" />
+    </div>
+    <input class="btn btn-default" type="submit" value="去重"/>
+</form>
+

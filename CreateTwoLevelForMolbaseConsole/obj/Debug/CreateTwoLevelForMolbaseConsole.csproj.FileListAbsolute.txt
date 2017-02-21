@@ -1,0 +1,6 @@
+E:\project\JustDoIt\CreateTwoLevelForMolbaseConsole\bin\Debug\CreateTwoLevelForMolbaseConsole.exe.config
+E:\project\JustDoIt\CreateTwoLevelForMolbaseConsole\bin\Debug\CreateTwoLevelForMolbaseConsole.exe
+E:\project\JustDoIt\CreateTwoLevelForMolbaseConsole\bin\Debug\CreateTwoLevelForMolbaseConsole.pdb
+E:\project\JustDoIt\CreateTwoLevelForMolbaseConsole\obj\Debug\CreateTwoLevelForMolbaseConsole.csprojResolveAssemblyReference.cache
+E:\project\JustDoIt\CreateTwoLevelForMolbaseConsole\obj\Debug\CreateTwoLevelForMolbaseConsole.exe
+E:\project\JustDoIt\CreateTwoLevelForMolbaseConsole\obj\Debug\CreateTwoLevelForMolbaseConsole.pdb

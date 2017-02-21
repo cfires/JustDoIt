@@ -1,0 +1,6 @@
+E:\project\JustDoIt\DistinctByOtherConsole\obj\Debug\DistinctByOtherConsole.csprojResolveAssemblyReference.cache
+E:\project\JustDoIt\DistinctByOtherConsole\bin\Debug\DistinctByOtherConsole.exe.config
+E:\project\JustDoIt\DistinctByOtherConsole\bin\Debug\DistinctByOtherConsole.exe
+E:\project\JustDoIt\DistinctByOtherConsole\bin\Debug\DistinctByOtherConsole.pdb
+E:\project\JustDoIt\DistinctByOtherConsole\obj\Debug\DistinctByOtherConsole.exe
+E:\project\JustDoIt\DistinctByOtherConsole\obj\Debug\DistinctByOtherConsole.pdb

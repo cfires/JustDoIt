@@ -1,0 +1,5 @@
+E:\project\JustDoIt\CreateTwoLevelForGuideConsole\bin\Debug\CreateTwoLevelForGuideConsole.exe.config
+E:\project\JustDoIt\CreateTwoLevelForGuideConsole\bin\Debug\CreateTwoLevelForGuideConsole.exe
+E:\project\JustDoIt\CreateTwoLevelForGuideConsole\bin\Debug\CreateTwoLevelForGuideConsole.pdb
+E:\project\JustDoIt\CreateTwoLevelForGuideConsole\obj\Debug\CreateTwoLevelForGuideConsole.exe
+E:\project\JustDoIt\CreateTwoLevelForGuideConsole\obj\Debug\CreateTwoLevelForGuideConsole.pdb

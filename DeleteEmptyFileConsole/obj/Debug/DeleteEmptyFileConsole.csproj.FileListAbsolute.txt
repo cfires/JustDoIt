@@ -1,0 +1,12 @@
+E:\project\JustDoIt\DeleteEmptyFileConsole\bin\Debug\DeleteEmptyFileConsole.exe.config
+E:\project\JustDoIt\DeleteEmptyFileConsole\bin\Debug\DeleteEmptyFileConsole.exe
+E:\project\JustDoIt\DeleteEmptyFileConsole\bin\Debug\DeleteEmptyFileConsole.pdb
+E:\project\JustDoIt\DeleteEmptyFileConsole\obj\Debug\DeleteEmptyFileConsole.csprojResolveAssemblyReference.cache
+E:\project\JustDoIt\DeleteEmptyFileConsole\obj\Debug\DeleteEmptyFileConsole.exe
+E:\project\JustDoIt\DeleteEmptyFileConsole\obj\Debug\DeleteEmptyFileConsole.pdb
+E:\Cfires\Cfires.JustDoIt\DeleteEmptyFileConsole\bin\Debug\DeleteEmptyFileConsole.exe.config
+E:\Cfires\Cfires.JustDoIt\DeleteEmptyFileConsole\bin\Debug\DeleteEmptyFileConsole.exe
+E:\Cfires\Cfires.JustDoIt\DeleteEmptyFileConsole\bin\Debug\DeleteEmptyFileConsole.pdb
+E:\Cfires\Cfires.JustDoIt\DeleteEmptyFileConsole\obj\Debug\DeleteEmptyFileConsole.csprojResolveAssemblyReference.cache
+E:\Cfires\Cfires.JustDoIt\DeleteEmptyFileConsole\obj\Debug\DeleteEmptyFileConsole.exe
+E:\Cfires\Cfires.JustDoIt\DeleteEmptyFileConsole\obj\Debug\DeleteEmptyFileConsole.pdb

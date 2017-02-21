@@ -1,0 +1,6 @@
+E:\Cfires\Cfires.JustDoIt\Egg\bin\Debug\Egg.exe.config
+E:\Cfires\Cfires.JustDoIt\Egg\bin\Debug\Egg.exe
+E:\Cfires\Cfires.JustDoIt\Egg\bin\Debug\Egg.pdb
+E:\Cfires\Cfires.JustDoIt\Egg\obj\Debug\Egg.csprojResolveAssemblyReference.cache
+E:\Cfires\Cfires.JustDoIt\Egg\obj\Debug\Egg.exe
+E:\Cfires\Cfires.JustDoIt\Egg\obj\Debug\Egg.pdb

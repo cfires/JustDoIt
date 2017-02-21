@@ -1,0 +1,5 @@
+E:\project\JustDoIt\JustDoItConsole\bin\Debug\JustDoItConsole.exe.config
+E:\project\JustDoIt\JustDoItConsole\bin\Debug\JustDoItConsole.exe
+E:\project\JustDoIt\JustDoItConsole\bin\Debug\JustDoItConsole.pdb
+E:\project\JustDoIt\JustDoItConsole\obj\Debug\JustDoItConsole.exe
+E:\project\JustDoIt\JustDoItConsole\obj\Debug\JustDoItConsole.pdb

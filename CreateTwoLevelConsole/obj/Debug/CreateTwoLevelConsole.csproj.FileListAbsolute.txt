@@ -1,0 +1,12 @@
+E:\project\JustDoIt\CreateTwoLevelConsole\bin\Debug\CreateTwoLevelConsole.exe.config
+E:\project\JustDoIt\CreateTwoLevelConsole\bin\Debug\CreateTwoLevelConsole.exe
+E:\project\JustDoIt\CreateTwoLevelConsole\bin\Debug\CreateTwoLevelConsole.pdb
+E:\project\JustDoIt\CreateTwoLevelConsole\obj\Debug\CreateTwoLevelConsole.exe
+E:\project\JustDoIt\CreateTwoLevelConsole\obj\Debug\CreateTwoLevelConsole.pdb
+E:\project\JustDoIt\CreateTwoLevelConsole\obj\Debug\CreateTwoLevelConsole.csprojResolveAssemblyReference.cache
+E:\Cfires\Cfires.JustDoIt\CreateTwoLevelConsole\bin\Debug\CreateTwoLevelConsole.exe.config
+E:\Cfires\Cfires.JustDoIt\CreateTwoLevelConsole\obj\Debug\CreateTwoLevelConsole.exe
+E:\Cfires\Cfires.JustDoIt\CreateTwoLevelConsole\obj\Debug\CreateTwoLevelConsole.pdb
+E:\Cfires\Cfires.JustDoIt\CreateTwoLevelConsole\bin\Debug\CreateTwoLevelConsole.exe
+E:\Cfires\Cfires.JustDoIt\CreateTwoLevelConsole\bin\Debug\CreateTwoLevelConsole.pdb
+E:\Cfires\Cfires.JustDoIt\CreateTwoLevelConsole\obj\Debug\CreateTwoLevelConsole.csprojResolveAssemblyReference.cache

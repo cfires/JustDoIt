@@ -1,0 +1,12 @@
+E:\project\JustDoIt\MoveTwoLevelFileConsole\bin\Debug\MoveTwoLevelFileConsole.exe.config
+E:\project\JustDoIt\MoveTwoLevelFileConsole\bin\Debug\MoveTwoLevelFileConsole.exe
+E:\project\JustDoIt\MoveTwoLevelFileConsole\bin\Debug\MoveTwoLevelFileConsole.pdb
+E:\project\JustDoIt\MoveTwoLevelFileConsole\obj\Debug\MoveTwoLevelFileConsole.exe
+E:\project\JustDoIt\MoveTwoLevelFileConsole\obj\Debug\MoveTwoLevelFileConsole.pdb
+E:\project\JustDoIt\MoveTwoLevelFileConsole\obj\Debug\MoveTwoLevelFileConsole.csprojResolveAssemblyReference.cache
+E:\Cfires\Cfires.JustDoIt\MoveTwoLevelFileConsole\bin\Debug\MoveTwoLevelFileConsole.exe.config
+E:\Cfires\Cfires.JustDoIt\MoveTwoLevelFileConsole\bin\Debug\MoveTwoLevelFileConsole.exe
+E:\Cfires\Cfires.JustDoIt\MoveTwoLevelFileConsole\bin\Debug\MoveTwoLevelFileConsole.pdb
+E:\Cfires\Cfires.JustDoIt\MoveTwoLevelFileConsole\obj\Debug\MoveTwoLevelFileConsole.csprojResolveAssemblyReference.cache
+E:\Cfires\Cfires.JustDoIt\MoveTwoLevelFileConsole\obj\Debug\MoveTwoLevelFileConsole.exe
+E:\Cfires\Cfires.JustDoIt\MoveTwoLevelFileConsole\obj\Debug\MoveTwoLevelFileConsole.pdb
